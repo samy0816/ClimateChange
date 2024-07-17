@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-black text-white;
+    font-family: 'Playwrite DE Grund', cursive;
+  }
+}
+
+.rc-slider-dot {
+  display: none !important; /* Hide the circular dots on the track */
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "question": "What is one human activity that contributes to the increase in global temperatures?",
+    "options": [
+      "Plantation",
+      "Urbanization",
+      "Using bicycles"
+    ],
+    "answer": "Urbanization",
+    "reason": "Urbanization involves building infrastructure and expanding cities, often leading to increased energy consumption and higher emissions of greenhouse gases, which contribute to global warming.",
+    "hint": "Consider activities that increase energy consumption and greenhouse gas emissions.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 2,
+    "question": "How does planting more trees affect global temperatures?",
+    "options": [
+      "Increases global temperatures",
+      "Decreases global temperatures",
+      "Has no effect on global temperatures"
+    ],
+    "answer": "Decreases global temperatures",
+    "reason": "Trees absorb carbon dioxide, a major greenhouse gas, through photosynthesis, helping to reduce the concentration of CO2 in the atmosphere and thereby cooling the planet.",
+    "hint": "Think about the role of trees in absorbing greenhouse gases.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 3,
+    "question": "If a city decides to increase urbanization, what is the likely effect on the surrounding forests?",
+    "options": [
+      "Increase in forest area",
+      "Decrease in forest area",
+      "No change in forest area"
+    ],
+    "answer": "Decrease in forest area",
+    "reason": "Urbanization often requires land for construction and development, which can lead to deforestation and a reduction in forest areas.",
+    "hint": "Urbanization usually involves clearing land for buildings and infrastructure.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is a direct consequence of increased global temperatures?",
+    "options": [
+      "Decrease in sea levels",
+      "Increase in forest fires",
+      "Decrease in plastic usage"
+    ],
+    "answer": "Increase in forest fires",
+    "reason": "Higher global temperatures can lead to drier conditions and prolonged heatwaves, increasing the likelihood and intensity of forest fires.",
+    "hint": "Consider the impact of higher temperatures on dry conditions and fire risks.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 5,
+    "question": "Considering the impact of plastic usage on the environment, what would be a more sustainable alternative?",
+    "options": [
+      "Using more plastic for convenience",
+      "Recycling and using biodegradable materials",
+      "Dumping plastic in the oceans"
+    ],
+    "answer": "Recycling and using biodegradable materials",
+    "reason": "Recycling helps reduce the amount of waste that ends up in landfills and oceans, and biodegradable materials break down more easily, minimizing environmental pollution.",
+    "hint": "Think about practices that reduce waste and pollution.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 6,
+    "question": "Propose a strategy that could simultaneously reduce global temperatures and benefit terrestrial animals.",
+    "options": [
+      "Increase urbanization",
+      "Reduce fossil fuel burning",
+      "Plant more forests"
+    ],
+    "answer": "Plant more forests",
+    "reason": "Planting forests increases carbon sequestration, helping to cool the planet, and provides habitat for terrestrial animals, promoting biodiversity.",
+    "hint": "Consider strategies that both sequester carbon and provide habitats.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 7,
+    "question": "What happens to terrestrial and aerial animals when there is an increase in forest fires?",
+    "options": [
+      "Their populations increase",
+      "Their populations decrease",
+      "They migrate to urban areas"
+    ],
+    "answer": "Their populations decrease",
+    "reason": "Forest fires destroy habitats and food sources, leading to a decline in animal populations due to death and displacement.",
+    "hint": "Think about the impact of habitat destruction on animal populations.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 8,
+    "question": "Why does an increase in global temperatures lead to more frequent hurricanes?",
+    "options": [
+      "Higher temperatures create more oceanic evaporation",
+      "Higher temperatures stabilize atmospheric conditions",
+      "Higher temperatures reduce wind speeds"
+    ],
+    "answer": "Higher temperatures create more oceanic evaporation",
+    "reason": "Warmer temperatures increase the rate of evaporation from the oceans, providing more moisture and energy for storms, leading to more frequent and intense hurricanes.",
+    "hint": "Consider the relationship between ocean temperatures and storm formation.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 9,
+    "question": "If a coastal city is experiencing rising sea levels, which of the following is a potential impact on humans and terrestrial animals?",
+    "options": [
+      "Decreased risk of flooding",
+      "Increased risk of habitat loss",
+      "Improved living conditions"
+    ],
+    "answer": "Increased risk of habitat loss",
+    "reason": "Rising sea levels can lead to coastal flooding, eroding habitats, and forcing both humans and animals to relocate, thereby increasing the risk of habitat loss.",
+    "hint": "Think about the consequences of coastal flooding on habitats.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 10,
+    "question": "How does deforestation affect terrestrial animals and the earth's climate?",
+    "options": [
+      "Improves habitats for terrestrial animals",
+      "Increases carbon dioxide absorption",
+      "Leads to loss of habitat and increased global temperatures"
+    ],
+    "answer": "Leads to loss of habitat and increased global temperatures",
+    "reason": "Deforestation removes trees that absorb carbon dioxide, contributing to higher atmospheric CO2 levels and global warming, and it destroys habitats, negatively impacting terrestrial animals.",
+    "hint": "Consider the dual impact of tree loss on carbon absorption and animal habitats.",
+    "category": "ClimateChange"
+  }
+]

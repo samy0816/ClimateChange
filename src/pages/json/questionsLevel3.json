@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "question": "Individual actions, like driving a car, do not significantly impact climate change.",
+    "options": [
+      "True",
+      "False",
+      "Sometimes"
+    ],
+    "answer": "False",
+    "reason": "Agents - Transportation: Individual actions, such as driving fossil fuel-powered cars, collectively contribute to significant greenhouse gas emissions and climate change.",
+    "hint": "Consider the cumulative effect of millions of people driving cars.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 2,
+    "question": "The interaction between small-scale agricultural activities can potentially result in climate change.",
+    "options": [
+      "True",
+      "False",
+      "Sometimes"
+    ],
+    "answer": "True",
+    "reason": "Causality - Agriculture and Emissions: Agricultural activities, even at a small scale, produce methane and other greenhouse gases that collectively contribute to global warming.",
+    "hint": "Think about the greenhouse gases produced by farming activities.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 3,
+    "question": "Using renewable energy has no real impact on reducing fossil fuel emissions.",
+    "options": [
+      "True",
+      "False",
+      "Sometimes"
+    ],
+    "answer": "False",
+    "reason": "Causality - Energy Transition: Transitioning to renewable energy sources significantly reduces reliance on fossil fuels, thereby lowering greenhouse gas emissions.",
+    "hint": "Renewable energy sources do not emit greenhouse gases like fossil fuels.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 4,
+    "question": "Only large-scale industrial actions affect the climate; individual choices are irrelevant.",
+    "options": [
+      "True",
+      "False",
+      "Sometimes"
+    ],
+    "answer": "False",
+    "reason": "Relations - Individual Contributions: Individual choices, such as energy consumption and transportation habits, collectively have a significant impact on climate change.",
+    "hint": "Consider how individual habits contribute to overall emissions.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 5,
+    "question": "Reducing emissions from one sector, like transportation, will significantly affect overall climate change.",
+    "options": [
+      "True",
+      "False",
+      "Sometimes"
+    ],
+    "answer": "True",
+    "reason": "Interactions - Sectoral Impact: Reducing emissions from any major sector, such as transportation, can significantly impact overall greenhouse gas levels and help mitigate climate change.",
+    "hint": "Think about the impact of reducing emissions in a major sector on overall climate change.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 6,
+    "question": "What was the initial arrangement of the continents according to plate tectonics?",
+    "options": [
+      "Current distribution of continents",
+      "Existence of a single global continent Pangaea",
+      "Formation of mountains"
+    ],
+    "answer": "Existence of a single global continent Pangaea",
+    "reason": "Patterns (P): The initial arrangement was the existence of a single global continent, Pangaea.",
+    "hint": "Plate tectonics is an emergent process. The current distribution of continents does not look like the initial pattern.",
+    "category": "Tectonics"
+  },
+  {
+    "id": 7,
+    "question": "How do tectonic plates interact with each other?",
+    "options": [
+      "Dependently",
+      "Randomly",
+      "Sequentially"
+    ],
+    "answer": "Randomly",
+    "reason": "Interactions (I) and Relations among Interactions (R): The interactions among tectonic plates occur randomly and simultaneously.",
+    "hint": "Tectonic plates can interact with any other random tectonic plates in the same way simultaneously.",
+    "category": "Tectonics"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is a human activity that contributes to climate change?",
+    "options": [
+      "Gravitational forces",
+      "Fossil fuel consumption",
+      "Solar radiation"
+    ],
+    "answer": "Fossil fuel consumption",
+    "reason": "Agents (A): Fossil fuel consumption is related to human activities contributing to climate change.",
+    "hint": "Unlike gravitational forces and solar radiation which are natural processes, fossil fuel consumption can significantly impact climate change through greenhouse gas emissions.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 9,
+    "question": "What is the outcome of human activities aimed at mitigating climate change?",
+    "options": [
+      "Increased global warming",
+      "Stabilized or reduced level of global warming",
+      "Formation of new continents"
+    ],
+    "answer": "Stabilized or reduced level of global warming",
+    "reason": "Patterns (P): The outcome of human activities aiming to mitigate climate change is a stabilized or reduced level of global warming.",
+    "hint": "The outcome should be the stabilization or reduction of global warming due to sustainable practices and technologies.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 10,
+    "question": "Tectonic plate movements are driven by __",
+    "options": [
+      "natural processes",
+      "human activities"
+    ],
+    "answer": "natural processes",
+    "reason": "Causality (C): The movement of tectonic plates is not directly influenced by human activities. It is driven by natural processes.",
+    "hint": "The movement of tectonic plates is not directly influenced by human activities. It is driven by natural processes.",
+    "category": "Tectonics"
+  },
+  {
+    "id": 11,
+    "question": "There is __ alignment between individual tectonic plate movements and the global pattern of continental drift.",
+    "options": [
+      "an",
+      "no"
+    ],
+    "answer": "no",
+    "reason": "Causality (C): There is no alignment between individual tectonic plate movements and the global pattern directly.",
+    "hint": "Individual tectonic plate movements do not directly align with the global pattern of continental drift.",
+    "category": "Tectonics"
+  },
+  {
+    "id": 12,
+    "question": "Mitigation efforts for climate change are __ actions.",
+    "options": [
+      "dependent",
+      "independent"
+    ],
+    "answer": "dependent",
+    "reason": "Relations among Interactions (R): Mitigation efforts for climate change are dependent actions. They are typically part of a planned sequence, e.g., policy implementation followed by increased use of renewable energy.",
+    "hint": "Mitigation efforts often depend on the success of preceding actions, such as successful implementation of climate policy can be followed by increased use of renewable energy which impacts fossil fuel consumption.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 13,
+    "question": "Positive effects of human activities accumulate over time, leading to a significant impact on climate stabilization.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reason": "Causal Mechanisms (C): For instance, the use of renewable energy leads to a reduction in the use of fossil energy, which leads to a reduction in greenhouse gases.",
+    "hint": "Positive effects accumulated by human activities such as using renewable energy, population control, sustainable farming, and having plant-based diet can lead to positive impact of climate change.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 14,
+    "question": "The movement of tectonic plates accumulate over time in predictive directions, contributing to the pattern of continental drift.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False",
+    "reason": "Causal Mechanisms (C): The movement of tectonic plates collectively contributes to the pattern of continental drift, not in a cumulative way. Even if some plates movements do not contribute to the final pattern, the continental drift can still be formed.",
+    "hint": "The direction of tectonic plates movement is often unpredictable. At the beginning, all the continents are stuck together, and all the tectonic plates start moving. As time goes on, plate tectonics continues to move, collectively causing the continents to move apart to form the pattern of continental drift.",
+    "category": "Tectonics"
+  },
+  {
+    "id": 15,
+    "question": "All of the tectonic plates have equivalent status. They move randomly in all directions which caused the continental drift without intention or purpose to cause this drift.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True",
+    "reason": "Agents (A) and Causal Mechanisms (C): There was no specific plate or supernatural force that directly caused the continental drift.",
+    "hint": "There was no specific plate or supernatural force that directly caused the continental drift.",
+    "category": "Tectonics"
+  }
+]

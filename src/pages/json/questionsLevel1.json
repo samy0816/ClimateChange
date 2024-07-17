@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "question": "Do actions taken by individual agents, such as burning fossil fuels, contribute to climate change?",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe"
+    ],
+    "answer": "Yes",
+    "reason": "Agent - Energy Consumption: Burning fossil fuels releases carbon dioxide and other greenhouse gases into the atmosphere, which trap heat and contribute to global warming.",
+    "hint": "Think about the main sources of greenhouse gas emissions.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 2,
+    "question": "Can the interactions between different agents, such as industrial facilities and vehicles, lead to increased greenhouse gas emissions?",
+    "options": [
+      "Yes",
+      "No",
+      "Uncertain"
+    ],
+    "answer": "Yes",
+    "reason": "Causality - Emission Sources: Industrial facilities and vehicles both release greenhouse gases, and their combined emissions can significantly increase the overall concentration of these gases in the atmosphere.",
+    "hint": "Consider how emissions from various sources combine in the atmosphere.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 3,
+    "question": "Does reducing fossil fuel use by individual agents, like households switching to renewable energy, help mitigate climate change?",
+    "options": [
+      "Yes",
+      "No",
+      "Possibly"
+    ],
+    "answer": "Yes",
+    "reason": "Agents - Energy Transition: Switching to renewable energy reduces the amount of carbon dioxide and other greenhouse gases released into the atmosphere, thereby helping to mitigate climate change.",
+    "hint": "Think about the impact of renewable energy sources on greenhouse gas emissions.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 4,
+    "question": "Can agent actions, such as deforestation, lead to a rise in global temperatures?",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe"
+    ],
+    "answer": "Yes",
+    "reason": "Causality - Land Use: Deforestation reduces the number of trees that can absorb carbon dioxide, leading to higher concentrations of this greenhouse gas in the atmosphere and contributing to global warming.",
+    "hint": "Consider the role of forests in the carbon cycle.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 5,
+    "question": "Do agent interactions, like the combination of industrial and agricultural emissions, exacerbate the greenhouse effect?",
+    "options": [
+      "Yes",
+      "No",
+      "Uncertain"
+    ],
+    "answer": "Yes",
+    "reason": "Interactions - Combined Emissions: The combination of emissions from industrial and agricultural sources increases the overall concentration of greenhouse gases, exacerbating the greenhouse effect and leading to global warming.",
+    "hint": "Think about how different emission sources can combine their effects.",
+    "category": "ClimateChange"
+  },
+  {
+    "id": 6,
+    "question": "Are fossil fuels a renewable source of energy?",
+    "options": [
+      "Yes",
+      "No",
+      "Sometimes"
+    ],
+    "answer": "No",
+    "reason": "Agents – Energy Sources: Fossil fuels are derived from ancient organic materials and take millions of years to form, making them a non-renewable source of energy.",
+    "hint": "Consider the time it takes for fossil fuels to form.",
+    "category": "ClimateChange"
+  }
+]
