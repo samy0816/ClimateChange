@@ -8,7 +8,7 @@ import PrimaryButton from "../components/PrimaryButton.tsx";
 import questionsLevel1 from '../json/questionsLevel1.json';
 import questionsLevel2 from '../json/questionsLevel2.json';
 import questionsLevel3 from '../json/questionsLevel3.json';
-import { addLog } from '../../logging.ts';
+import {addLog} from '../../logging.ts';
 
 type Answers = {
     [key: number]: string;
@@ -89,7 +89,6 @@ const Quiz: React.FC = () => {
     };
 
     const resetQuiz = () => {
-        setLevel(null);
         setAnswers({});
         setCorrectness({});
         setCurrentQuestion(0);
@@ -109,13 +108,16 @@ const Quiz: React.FC = () => {
                             <div key={question.id} className="space-y-2">
                                 <p className="font-bold">{question.question}</p>
                                 <p>Correct Answer: {question.answer}</p>
-                                    <p className="text-green-500">Reason: {question.reason}</p>
+                                <p className="text-green-500">Reason: {question.reason}</p>
                                 <hr className="my-2"/>
                             </div>
                         );
                     })}
                     <div className="flex justify-end">
-                        <PrimaryButton text="Restart Quiz" onClick={() => setShowSummary(false)}/>
+                        <PrimaryButton text="Restart Quiz" onClick={() => {
+                            setShowSummary(false);
+                            setLevel(null);
+                        }}/>
                     </div>
                 </div>
                 <div className="w-3/5 fixed pl-8 top-0 right-0 h-screen">
