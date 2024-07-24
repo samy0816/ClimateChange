@@ -10,6 +10,7 @@ import { addLog } from "../../logging.ts";
 
 function GlobalChangeRead() {
     const textContent = textData["GlobalChangeRead"];
+    const textLines = textContent.text.split('\n');
 
     useEffect(() => {
         addLog({
@@ -28,7 +29,9 @@ function GlobalChangeRead() {
                 <Title>{textContent.title}</Title>
                 <Steps currentStep={0}/>
                 <div className="pt-5">
-                    {textContent.text}
+                    {textLines.map((line, index) => (
+                        <p key={index}>{line}</p>
+                    ))}
                 </div>
                 <div className="flex justify-between">
                     <SecondaryButton link="/menu" text="Back"/>
