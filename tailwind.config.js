@@ -11,5 +11,8 @@ export default {
     extend: {},
   },
   plugins: [tailwindScrollbarHide, daisyui, tailwindForms],
+  daisyui: {
+    themes: ["dark"],
+  },
 }
 
